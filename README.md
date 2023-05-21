@@ -1,3 +1,3 @@
 # Resume
 My latest resume
-[CV.pdf](https://github.com/manojsh55/Resume/files/10279440/CV.pdf)
+[CV.pdf]((https://github.com/manojsh55/Resume/blob/main/Curriculum_Vitae.pdf))
